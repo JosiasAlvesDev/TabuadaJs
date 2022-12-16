@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(73, 154, 247);
+}
+
+header{
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+    letter-spacing: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section{
+    background: white;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+footer{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#primeiro p{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+#segundo{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+#segundo select{
+    padding: 5px 5px 5px 5px;
+}
